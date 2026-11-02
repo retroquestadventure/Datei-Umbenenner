@@ -1,10 +1,12 @@
 # Datei-Umbenenner
 Kleines GUI Tool zum umbenennen von mehreren Dateien
 
-zur Installation muss:
+Zur Installation muss:
 pip install tkinterdnd2 in der CMD genutzt werden.
 
-
+Zum starten: 
+1) In CMD zum Dateipfad mit datei_umbenenner.py wechseln
+2) Starten mit python datei_umbenenner.py
 
 - Dateien können per Drag & Drop in das Fenster gezogen werden
   - Alternativ können die Dateien mit "Dateien hinzufügen" hinzugefügt werden
